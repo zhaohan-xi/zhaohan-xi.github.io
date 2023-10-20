@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaohan Xi"
-description              : "Zhaohan Xi is a Ph.D. canditate at Pennsylvania State and a visiting scholar at Stony Brook University. His research focuses on developing responsible, yet practical, AI solutions to improve the predictive robustness, learning resilience, and privacy preservation on Graph Learning, Knowledge Reasoning, Large Language Models, Prompt Engineering, Foundation Models, AutoML, and Computer Vision. "
+description              : "I am a Ph.D. canditate at Pennsylvania State and a visiting scholar at Stony Brook University. "
 repository               : "zhaohan-xi/zhaohan-xi.github.io"
 google_scholar_stats_use_cdn : true
 
