@@ -38,19 +38,33 @@ I am currently a last-year Ph.D. candidate at [Pennsylvania State University -- 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/mdp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/nips23-mdp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://arxiv.org/abs/2309.13256)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhaohan Xi**, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wQgnjMIAAAAJ&sortby=pubdate&citation_for_view=wQgnjMIAAAAJ:Zph67rFs4hoC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Highlights: Pre-trained Language Models, Prompt Engineering, AI Security. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2023</div><img src='images/usenix23-roar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/abs/2305.02383)
+
+**Zhaohan Xi**, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wQgnjMIAAAAJ&sortby=pubdate&citation_for_view=wQgnjMIAAAAJ:3fE2CSJIrl8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Highlights: Knowledge Graph, Reasoning, AI Security, Decision-making, Cyber Intelligence, Clinical Decision Support. 
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
