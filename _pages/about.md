@@ -23,7 +23,7 @@ I am currently a last-year Ph.D. candidate at [Pennsylvania State University -- 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 💻 Research Interest:
+# 🔎 Research Interest:
 - **Adversarial/Responsible AI:** security and privacy on AI/Machine Learning, trustworthy AI
 - **NLP:** Large Language Models (LLMs), Pre-trained Language Models (PLMs), Prompt Engineering, Tool Learning
 - **Graph Learning:** Graph Neural Networks (GNNs), Knowledge Graph, Knowledge Representation and Reasoning, Decision-making
@@ -71,12 +71,15 @@ I am currently a last-year Ph.D. candidate at [Pennsylvania State University -- 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08 - 2024.05 (expected)*, Visiting Scholar, Stony Brook University. 
+- *2020.01 - 2024.05 (expected)*, Ph.D., Pennsylvania State University. 
+- *2016.08 - 2018.05*, Master, Lehigh University.
+- *2012.09 - 2016.06*, Bachelor, Nanjing University of Aeronautics and Astronautics.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2023.05 - 2023.08*, Microsoft Data Scientist Internship, Seattle, WA.
+- *2022.05 - 2022.08*, Uber Ph.D. Software Engineering Internship, Sunnyvale, CA.
