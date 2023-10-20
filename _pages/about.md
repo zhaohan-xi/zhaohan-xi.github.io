@@ -64,6 +64,20 @@ I am currently a last-year Ph.D. candidate at [Pennsylvania State University -- 
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2021</div><img src='images/usenix21-gta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Backdoor](https://www.usenix.org/conference/usenixsecurity21/presentation/xi)
+
+**Zhaohan Xi**, Ren Pang, Shouling Ji, Ting Wang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wQgnjMIAAAAJ&citation_for_view=wQgnjMIAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Highlights: Graph Learning, Graph Neural Networks (GNNs), Backdoor (Trojaning) Attack. 
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
