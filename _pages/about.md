@@ -25,8 +25,10 @@ I am currently a last-year Ph.D. candidate at [Pennsylvania State University -- 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 Our paper "Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks" was accepted by <span style="color:#e74d3c"><a href="https://nips.cc">NeurIPS 2023</a></span>.. 
+- *2023.07*: &nbsp;🎉🎉 Our paper "An Embarrassingly Simple Backdoor Attack on Self-supervised Learning" was accepted by <span style="color:#e74d3c"><a href="https://iccv2023.thecvf.com">ICCV 2023</a></span>.
+- *2023.05*: &nbsp;I start my Microsoft Internship as a Data Scientist@Seattle, WA.
+- *2023.05*: &nbsp;🎉🎉 Our paper "On the Security Risks of Knowledge Graph Reasoning" was accepted by <span style="color:#e74d3c"><a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security 2023</a></span>.
 
 # 📝 Publications 
 
