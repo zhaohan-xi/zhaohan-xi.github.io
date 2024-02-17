@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a last-year Ph.D. candidate at [Pennsylvania State University -- College of Information Science and Technology](https://ist.psu.edu) and a visiting scholar at [Stony Brook University -- Computer Science Department](https://www.cs.stonybrook.edu).
-Before that, I received my master's degree at [Lehigh University](https://www1.lehigh.edu) and my bachelor's degree at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn). My research focuses on AI Security and Privacy, aiming at studying adversarial AI techniques and developing responsible, robust, and resilient strategies to improve AI's reliability. My research involves AI applications in various domains, including Graph Learning, Large Language Models, Prompt Engineering, AutoML, and Contrastive Learning.
+Before that, I received my master's degree at [Lehigh University](https://www1.lehigh.edu) and my bachelor's degree at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn). 
+
+My research focuses on AI Security and Privacy, aiming at studying adversarial AI techniques and developing responsible, robust, and resilient strategies to improve AI's reliability. My research involves AI applications in various domains, including Graph Learning, Large Language Models, Prompt Engineering, AutoML, and Contrastive Learning.
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for research positions in CS, related to Security and Privacy, Artificial Intelligence, Machine Learning, and Data Science. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
 
