@@ -19,13 +19,11 @@ redirect_from:
 
 I am an Assistant Professor of [School of Computing at Binghamton University, The State University of New York (SUNY).](https://www.binghamton.edu/computer-science/index.html)
 
-I earned my Ph.D. at [Pennsylvania State University -- College of Information Science and Technology](https://ist.psu.edu). During the final year of my Ph.D., I was also a visiting scholar a [Stony Brook University (SUNY) -- Computer Science Department](https://www.cs.stonybrook.edu).
-
-Before that, I received my master's degree from [Lehigh University](https://www1.lehigh.edu) and my bachelor's degree from [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn). 
+I earned my Ph.D. at [Pennsylvania State University -- College of Information Science and Technology](https://ist.psu.edu). During the final year of my Ph.D., I was also a visiting scholar a [Stony Brook University (SUNY) -- Computer Science Department](https://www.cs.stonybrook.edu). Before that, I received my master's degree from [Lehigh University](https://www1.lehigh.edu) and my bachelor's degree from [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn). 
 
 My research focuses on AI Security & Privacy and Clinical AI in the context of Large Language Models (LLMs), aiming to develop responsible, robust, and resilient strategies to improve AI's expertise and reliability. Beyond LLMs, my research also involves advanced AI techniques, including Graph Learning, Knowledge Graph Reasoning, Prompt Engineering, and AutoML.
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">!!Ph.D.Opening!! I am looking for Ph.D students who is interested in research about LLMs, Responsible AI and its Security, and/or Clinical LLMs. Please drop me an email (zxi1[AT]binghamton.edu) if you are interested.</strong></strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">!!Ph.D.Opening: I am looking for Ph.D students who is interested in research about LLMs, Responsible AI and its Security, and/or Clinical LLMs. Please drop me an email (zxi1[AT]binghamton.edu) if you are interested.</strong></strong>
 
  <!-- working under the mentorship of Dr. [Ting Wang](https://alps-lab.github.io).  -->
 
