@@ -23,15 +23,16 @@ I earned my Ph.D. at [Pennsylvania State University -- College of Information Sc
 
 My research focuses on AI Security & Privacy and Clinical AI in the context of Large Language Models (LLMs), aiming to develop responsible, robust, and resilient strategies to improve AI's expertise and reliability. Beyond LLMs, my research also involves advanced AI techniques, including Graph Learning, Knowledge Graph Reasoning, Prompt Engineering, and AutoML.
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">!!Ph.D.Opening: I am looking for Ph.D students who are interested in research about LLMs, Responsible AI and its Security, and/or Clinical LLMs. Please drop me an email (zxi1[AT]binghamton.edu) if you are interested.</strong></strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">!!Ph.D.Opening: I am looking for Ph.D students who are interested in research about LLMs, Responsible AI and its Security, and/or Clinical LLMs. Please drop me an email (zxi1[AT]binghamton.edu) if you are interested. Let's have a great journey! </strong></strong>
 
  <!-- working under the mentorship of Dr. [Ting Wang](https://alps-lab.github.io).  -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔎 Research Interest:
-- **NLP/LLM:** LLM-as-Agent, Multimodality, Prompt Engineering, Tool Learning, Retrieval Augmented Generation (RAG), Langauge Model Agents
+- **NLP/LLM:** LLM-as-Agent, Multimodality, Prompt Engineering, Tool Learning, Retrieval Augmented Generation (RAG)
 - **Adversarial/Responsible AI:** security and privacy on AI/Machine Learning, trustworthy AI
+- **Clinical AI:** Cardiologist-level LLMs, ECG Analysis, Medical Causal Transformer
 - **Graph Learning:** Graph Neural Networks (GNNs), Knowledge Graph, Knowledge Representation and Reasoning, Decision-making
 - **Advanced ML:** AutoML, Constrastive Learning, Self-supervised Learning
 
