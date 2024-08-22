@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaohan Xi"
-description              : "I am a Ph.D. canditate at Pennsylvania State and a visiting scholar at Stony Brook University. "
+description              : "Assistant Professor at Binghamton University, The State University of New York"
 repository               : "zhaohan-xi/zhaohan-xi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wQgnjMIAAAAJ&hl=zh-CN"
-  email            : "zhaohan.xi@psu.edu"
+  email            : "zxi1@binghamton.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
