@@ -23,7 +23,7 @@ I earned my Ph.D. at [Pennsylvania State University -- College of Information Sc
 
 My research focuses on AI Security & Privacy and Clinical AI in the context of Large Language Models (LLMs), aiming to develop responsible, robust, and resilient strategies to improve AI's expertise and reliability. Beyond LLMs, my research also involves advanced AI techniques, including Graph Learning, Knowledge Graph Reasoning, Prompt Engineering, and AutoML.
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">!!Ph.D.Opening: I am looking for Ph.D students who are interested in research about LLMs, Responsible AI and its Security, and/or Clinical LLMs. Please contact me (zxi1[AT]binghamton.edu) if you are interested. Let's have a great journey! </strong></strong>
+<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">!!Ph.D.Opening: I am looking for Ph.D students who are interested in research about LLMs, Responsible AI and its Security, and/or Clinical LLMs. Please contact me (zxi1[AT]binghamton.edu) if you are interested. Let's have a great journey! </strong></strong> -->
 
  <!-- working under the mentorship of Dr. [Ting Wang](https://alps-lab.github.io).  -->
 
