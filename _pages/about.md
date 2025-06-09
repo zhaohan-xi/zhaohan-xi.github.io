@@ -37,9 +37,9 @@ My research focuses on AI Security & Privacy and Clinical AI in the context of L
 - **Advanced ML:** AutoML, Constrastive Learning, Self-supervised Learning
 
 
-# 🔥 News
-- *2024-2025* &nbsp;📝 I am teaching a graduate-level course "LLMs: Foundation and Applications."
-- *2024.06* &nbsp;📝 I served as a panelist of NSF/CISE/IIS/III program.
+<!-- # 🔥 News -->
+<!-- - *2025.02* &nbsp;📝 I served as a NSF/CRII/NLP&IR panelist.
+- *2024.06* &nbsp;📝 I served as a NSF/CISE/III panelist. -->
 
 # 📝 Publication
 
