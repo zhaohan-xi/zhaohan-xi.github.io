@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor of [School of Computing at Binghamton University, The State University of New York (SUNY).](https://www.binghamton.edu/computer-science/index.html)
+I am a Tenure-Track Assistant Professor of [School of Computing at Binghamton University, The State University of New York (SUNY).](https://www.binghamton.edu/computer-science/index.html)
 
-I earned my Ph.D. at [Pennsylvania State University -- College of Information Science and Technology](https://ist.psu.edu). During the final year of my Ph.D., I was also a visiting scholar a [Stony Brook University (SUNY) -- Computer Science Department](https://www.cs.stonybrook.edu). Before that, I received my master's degree from [Lehigh University](https://www1.lehigh.edu) and my bachelor's degree from [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn). 
+Before joining in Binghamton, I earned my Ph.D. at [Pennsylvania State University -- College of Information Science and Technology](https://ist.psu.edu). During the final year of my Ph.D., I was also a visiting scholar a [Stony Brook University (SUNY) -- Computer Science Department](https://www.cs.stonybrook.edu). Before that, I received my master's degree from [Lehigh University](https://www1.lehigh.edu) and my bachelor's degree from [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn). 
 
-My research focuses on AI Security & Privacy and Clinical AI in the context of Large Language Models (LLMs), aiming to develop responsible, robust, and resilient strategies to improve AI's expertise and reliability. Beyond LLMs, my research also involves advanced AI techniques, including Graph Learning, Knowledge Graph Reasoning, Prompt Engineering, and AutoML.
+My research focuses on Cybersecurity and Healthcare in the context of Large Language Models (LLMs), aiming to develop agentic systems, equipped with responsible, robust, and resilient strategies to improve AI's expertise and reliability. Beyond LLMs, my research also involves advanced AI techniques, including Graph Learning, Knowledge Graph Reasoning, Prompt Engineering, and AutoML.
 
 <!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">!!Ph.D.Opening: I am looking for Ph.D students who are interested in research about LLMs, Responsible AI and its Security, and/or Clinical LLMs. Please contact me (zxi1[AT]binghamton.edu) if you are interested. Let's have a great journey! </strong></strong> -->
 
@@ -30,16 +30,25 @@ My research focuses on AI Security & Privacy and Clinical AI in the context of L
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔎 Research Interest:
-- **NLP/LLM:** LLM-as-Agent, Multimodality, Prompt Engineering, Tool Learning, Retrieval Augmented Generation (RAG)
-- **Adversarial/Responsible AI:** security and privacy on AI/Machine Learning, trustworthy AI
-- **Clinical AI:** Cardiologist-level LLMs, ECG Analysis, Medical Causal Transformer
+- **Large Language Models:** Multi-Agent, Multimodality, Tool Learning, Retrieval Augmented Generation (RAG), Reinforcement with Human Feedback (RLHF), Game Theory, Scaling Law
+- **Healthcare/Biomed AI:** Causal Discovery and Reasoning, Drug Repurposing, Cardiologist-level LLMs, ECG Analysis, Medical Causal Transformer
+- **Cybersecurity:** Cyber Threat Hunting, Red/Blue Teaming, Threat Intelligence
+- **AI Security:** Security and Privacy on AI/Machine Learning, Trustworthy AI, Responsible AI
 - **Graph Learning:** Graph Neural Networks (GNNs), Knowledge Graph, Knowledge Representation and Reasoning, Decision-making
-- **Advanced ML:** AutoML, Constrastive Learning, Self-supervised Learning
+
 
 
 <!-- # 🔥 News -->
-<!-- - *2025.02* &nbsp;📝 I served as a NSF/CRII/NLP&IR panelist.
-- *2024.06* &nbsp;📝 I served as a NSF/CISE/III panelist. -->
+- *2025.06* &nbsp;📝 I served as an *ARR/EMNLP* reviewer.
+- *2025.06* &nbsp;📝 I served as a *NSF panelist* with AI subjects.
+- *2025.05* &nbsp;📝 I earned *ICLR Notable Reviewer*, thank you ICLR!
+- *2025.04* &nbsp;📝 I earned *Outstanding Service and Support Award*, thank you Binghamton University!
+- *2025.04* &nbsp;📝 I served as a *NSF panelist* with Security subjects.
+- *2025.02* &nbsp;📝 I served as a *NSF panelist* with AI subjects.
+- *2025.02* &nbsp;📝 I served as an *ARR/ACL* reviewer.
+- *2025.02* &nbsp;📝 I served as a *KDD* reviewer.
+- *2024.11* &nbsp;📝 I served as an *ICLR* reviewer.
+- *2024.06* &nbsp;📝 I served as a *NSF panelist* with AI subjects.
 
 # 📝 Publication
 
