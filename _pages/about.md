@@ -41,7 +41,7 @@ My research focuses on Cybersecurity and Healthcare in the context of Large Lang
 <!-- # 🔥 News -->
 - *2025.06* &nbsp;📝 I served as an *ARR/EMNLP* reviewer.
 - *2025.06* &nbsp;📝 I served as a *NSF panelist* with AI subjects.
-- *2025.05* &nbsp;📝 I earned *ICLR Notable Reviewer*, thank you ICLR!
+- *2025.05* &nbsp;📝 I earned [*ICLR Notable Reviewer*](https://iclr.cc/Conferences/2025/Reviewers), thank you ICLR!
 - *2025.04* &nbsp;📝 I earned *Outstanding Service and Support Award*, thank you Binghamton University!
 - *2025.04* &nbsp;📝 I served as a *NSF panelist* with Security subjects.
 - *2025.02* &nbsp;📝 I served as a *NSF panelist* with AI subjects.
