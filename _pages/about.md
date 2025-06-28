@@ -51,7 +51,6 @@ My research focuses on Cybersecurity and Healthcare in the context of Large Lang
 - *2024.06* &nbsp;📝 I served as a *NSF panelist* with AI subjects.
 
 # 📝 Publication
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/nips23-mdp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
