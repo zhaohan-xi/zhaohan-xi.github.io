@@ -81,6 +81,7 @@ jobs:
         with:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
+        run: pip install --upgrade jupyter
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
