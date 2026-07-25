@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://zhaohan-xi.github.io/sitemap.xml
