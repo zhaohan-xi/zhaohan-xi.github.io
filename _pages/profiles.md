@@ -7,7 +7,7 @@ nav_order: 7
 
 profiles:
   - align: left
-    image: Jin_08_23.jpeg
+    image: zhaohan-photographer.jpg
     content: about_einstein.md
     image_circular: false
 

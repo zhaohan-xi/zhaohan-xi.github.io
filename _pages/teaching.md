@@ -8,12 +8,18 @@ nav_order: 3
 
 #### **Instructor**
 
-(at the University of Pennsylvania)
+(at the Binghamton University)
 
-**BSTA 621: Statistical Inference I** (Spring 2025)
+**INFO 561: Large Language Model: Foundations and Applications** (Fall 2024, Fall 2025)
 
-- Office Hour: Mon 3:30pm - 4:30pm, 203 Blockley Hall
+- Engineering Building, Vestal, NY
+- Online course is available by BU's online program
 
-**BSTA 621: Statistical Inference I** (Spring 2024)
+**CS 436/536: Introduction to Machine Learning** (Spring 2025)
 
-- Office Hour: Tue 11:00am - 12:00pm, 203 Blockley Hall
+- Engineering Building, Vestal, NY
+
+**INFO 536 - Applied Machine Learning** (Spring 2027)
+
+- Engineering Building, Vestal, NY
+- Online course is available by BU's online program

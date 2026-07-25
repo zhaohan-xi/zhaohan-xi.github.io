@@ -1,25 +1,31 @@
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Biostatistics
-      institution: University of Minnesota Twin Cities
-      year: 2019
-    - title: B.S. in Statistics
-      institution: School of the Gifted Young, University of Science and Technology of China
-      year: 2014
-
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Professor of Biostatistics
-      institution: University of Pennsylvania, Philadelphia, PA
-      year: Feb. 2023 - Present
-    - title: Postdoctoral fellow
-      institution: Johns Hopkins University, Baltimore, MD
-      year: Aug. 2019 - Jan. 2023
-    - title: Intern
-      institution: Sanofi S.A., Cambridge, MA
+    - title: Tenure-Track Assistant Professor
+      institution: Binghamton University, Vestal, NY
+      year: 2024 - Present
+    - title: Affiliate Member
+      institution: Upstate Medical University, Syracuse, NY
+      year: 2026 - Present
+    - title: Sony AI Research Scientist Internship
+      institution:  New York City, NY
+      year: 2024.07 - 2024.09
+    - title: Microsoft Data Scientist Internship
+      institution: Seattle, WA
+      year: 2023.05 - 2023.08
+    - title: Uber Ph.D. Software Engineering Internship
+      institution: Sunnyvale, CA
+      year: 2022.05 - 2022.08
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Informatics
+      institution: Pennsylvania State University, College of Information Science and Technology
+      year: 2024
+    - title: M.S. in Computer Science
+      institution: Lehigh University, Department of Computer Science
       year: 2018
-    - title: Intern
-      institution: Liberty Mutual Insurance, Boston, MA
-      year: 2017
+    - title: B.S. in Automation
+      institution: Nanjing University of Aeronautics and Astronautics
+      year: 2016

@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Jin_08_23.jpeg
+  image: zhaohan-photographer.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>Department of Biostatistics, Epidemiology and Bioinformatics
@@ -28,19 +28,21 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor of Biostatistics at the University of Pennsylvania, Department of Biostatistics, Epidemiology and Informatics. I worked as a postdoctoral fellow in Dr. [Nilanjan Chatterjee](https://nilanjanchatterjee.org/)'s group at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), Johns Hopkins Bloomberg School of Public Health in 2019 - 2023. I received my Ph.D. in Biostatistics from the University of Minnesota, Twin Cities under the supervision of Drs. [Joeseph S. Koopmeiners](https://directory.sph.umn.edu/bio/sph-a-z/joseph-koopmeiners) and [Lin Zhang](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang). Before that I received my Bachelor's degree in statistics from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)).
+I am an Assistant Professor of [School of Computing at the Binghamton University](https://www.binghamton.edu/computer-science/), The State University of New York (SUNY), where I jointly contribute to the Computer Science and Information Systems programs. I am also an Affiliate Member of [Upstate Cancer Center, Upstate Medical University](https://www.upstate.edu/cancer/research/membership.php), where I collaborate on research in cancer prevention, survivorship, therapeutics, and population health.
 
-My research interests focus on developing statistical and computational methods to address cutting-edge problems in public health and medicine by integrating large-scale, multi-source datasets. Within this scope, my research involves health equity in disease risk prediction, statistical genetics, Bayesian hierarchical models for high-dimensional, complex-structured data, and statistical data integration.
+Before joining in Binghamton, I earned my Ph.D. at [Pennsylvania State University, College of Information Science and Technology](https://ist.psu.edu). I received my master’s degree from [Lehigh University](https://www2.lehigh.edu) and my bachelor’s degree from [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn).
 
-In February 2022, I received an [NIH Pathway to Independence Award (K99/R00)](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10349828) from the National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)) as a Principal Investigator for multi-ethnic disease risk prediction integrating multi-source information on genetic and other risk factors. <br />
+My research focuses on developing cross-disciplinary solutions to cutting-edge problems through agentic AI, aiming to foster responsible, robust, and resilient systems. **On the methodology side**, my research advances the reasoning, planning, and collaborative capabilities of LLM-based agents. I also work on techniques that improve their safety, trustworthiness, and reliability. **On the application side**, I bring these methods to domains where correctness and accountability matter most. My work spans healthcare, cybersecurity, AI-powered education, and scientific discovery, where I study how agentic systems can support expert decision making, strengthen digital defenses, personalize learning, and accelerate the pace of research.
+
+<!-- In February 2022, I received an [NIH Pathway to Independence Award (K99/R00)](https://reporter.nih.gov/search/5u7x8jpqxUSznDKcHnIqSw/project-details/10349828) from the National Human Genome Research Institute ([NHGRI](https://www.genome.gov/)) as a Principal Investigator for multi-ethnic disease risk prediction integrating multi-source information on genetic and other risk factors. <br />-->
 &nbsp;
 
 #### **Contact**
 
-Department of Biostatistics, Epidemiology and Bioinformatics <br />
-University of Pennsylvania, Perelman School of Medicine <br />
-203 Blockley Hall <br />
-423 Guardian Drive, Philadelphia, PA 19104 <br />
-Email: <a href = "mailto: Jin.Jin@Pennmedicine.upenn.edu">Jin.Jin@Pennmedicine.upenn.edu</a>
+School of Computing, Thomas J. Watson College of Engineering and Applied Science <br />
+Binghamton University, State University of New York <br />
+Engineering Building, EB G06 <br />
+495 West Drive, Vestal, NY 13850 <br />
+Email: <a href = "mailto: zxi1n@binghamton.edu">zxi1n@binghamton.edu</a>
 
 &nbsp;
