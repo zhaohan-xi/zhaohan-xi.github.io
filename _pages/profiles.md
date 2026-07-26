@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-nav: false
+nav: true
 nav_order: 7
 
 profiles:
@@ -12,13 +12,13 @@ profiles:
     image_circular: false
 
   - align: left
-    image: luoxi.jpg
-    content: luoxi.md
+    image: yuqiao.jpg
+    content: yuqiao.md
     image_circular: false
 
   - align: left
-    image: yuqiao.jpg
-    content: yuqiao.md
+    image: luoxi.jpg
+    content: luoxi.md
     image_circular: false
 
   ## Past Members
