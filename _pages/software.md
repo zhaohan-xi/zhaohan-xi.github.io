@@ -2,11 +2,11 @@
 layout: page
 permalink: /software/
 title: Computing
-nav: true
-nav_order: 5
+nav: false
+nav_order: 
 ---
 
-#### [PennPRS](https://pennprs.org/)
+<!-- #### [PennPRS](https://pennprs.org/)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -67,4 +67,4 @@ An R package for graph-informed detection of disease-associated gene pathways. [
 </div>
 </div>
 
-[[Paper](https://www.nature.com/articles/s41591-020-01191-8)]
+[[Paper](https://www.nature.com/articles/s41591-020-01191-8)] -->
