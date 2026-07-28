@@ -406,10 +406,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-one-paper-accepted-by-iclr-2026-subject-llm-counterfactual-reasoning",
-          title: 'One paper accepted by ICLR’2026! Subject: LLM Counterfactual Reasoning.',
+          title: 'One paper accepted by ICLR’2026. Subject: LLM Counterfactual Reasoning.',
           description: "",
           section: "News",},{id: "news-three-papers-accepted-by-icml-2026-subjects-1-multi-agent-in-digital-health-2-threat-hunting-benchmark-3-spotlight-2-2-acceptance-rate-multi-agent-uncertainty-amp-amp-reinforcement-learning",
-          title: 'Three papers accepted by ICML’2026! Subjects: (1) Multi-Agent in Digital Health, (2) Threat...',
+          title: 'Three papers accepted by ICML’2026. Subjects: (1) Multi-Agent in Digital Health, (2) Threat...',
           description: "",
           section: "News",},{id: "news-i-ve-been-awarded-a-2-000-cce-grant-to-build-an-ai-assisted-app-for-head-and-neck-cancer-patients-with-uhs-and-upstate-medical",
           title: 'I’ve been awarded a $2,000 CCE grant to build an AI-assisted app for...',
@@ -471,7 +471,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/zhaohan-xi", "_blank");
+          window.open("https://github.com/Craft-AI-Lab", "_blank");
         },
       },{
         id: 'social-linkedin',
